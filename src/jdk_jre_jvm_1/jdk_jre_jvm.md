@@ -1,2 +1,4 @@
-## JDK
-# check
+#JDK
+
+
+![[JDK_Preview.excalidraw]]
